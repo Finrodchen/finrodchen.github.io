@@ -2,8 +2,6 @@
 title: About ME
 ---
 
-# About ME
-
 ## Finrod Chen (陳思蒝)
 
 ![ME](https://i.imgur.com/pMRk7vn.png)
