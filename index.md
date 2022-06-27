@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+![LOGO](https://i.imgur.com/cjDDCp8.png)
 
-Maybe say a some things about yourself.
+## Thoughts and Ideas.
 
-Or maybe what you plan to blog about.
+![](https://i.imgur.com/wEQsITK.png)
+
+Using [Markdown](/#) to notes.
