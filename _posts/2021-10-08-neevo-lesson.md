@@ -3,8 +3,6 @@ title: Neevo - 用零碎時間賺一杯咖啡
 tags: web-earning
 ---
 
-## 簡介Neevo
-
 ![logo](https://i.imgur.com/4Ob1hf6.jpg)
 
 [Neevo](https://www.neevo.ai/)是[Defined Crowd](https://www.definedcrowd.com/)這間公司旗下的一個產品，Defined Crowd在做的事情是提供各大企業AI訓練的服務，協助改善AI在語音辨識、文字轉語音以及圖像物體辨識的準確度。
