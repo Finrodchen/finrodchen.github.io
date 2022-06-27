@@ -44,10 +44,3 @@ hr {
   opacity: 0.3;
 }
 
-.site-title::before {
-  content: url("/image/favicon.png");
-  display: inline-block;
-  position: relative;
-  width: 32px;
-  top: 32px;
-  }
