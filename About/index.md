@@ -1,5 +1,5 @@
 ---
-title: About ME
+title: About
 ---
 
 ## Finrod Chen (陳思蒝)
