@@ -1,5 +1,5 @@
 ---
-title: About
+title: <i class="fa-solid fa-address-card">About</i>
 ---
 
 ## Finrod Chen (陳思蒝)
