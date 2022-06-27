@@ -1,4 +1,7 @@
-## Hello World
+---
+title: Hello World
+tags: life
+---
 
 ![Hello World](https://i.imgur.com/CuGX0FR.jpg)
 
