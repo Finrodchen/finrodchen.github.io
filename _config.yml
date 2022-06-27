@@ -30,14 +30,17 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 titles_from_headings:
   strip_title: true
   collections: true
+
+paginate: 5
 
 defaults:
   - scope:
       path: ""
       type: post
     values:
-      tags: Other
+      tags: 
