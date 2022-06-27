@@ -1,6 +1,6 @@
 ---
 title: 【特管辦法】細胞治療的關鍵角色
-tags: cell therapy
+tags: cell-therapy
 ---
 
 ![](https://i.imgur.com/ZinDn3a.png)

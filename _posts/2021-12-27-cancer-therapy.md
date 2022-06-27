@@ -1,6 +1,6 @@
 ---
 title: 淺談癌症治療
-tags: cancer therapy
+tags: cancer-therapy
 ---
 
 ![ranking](https://i.imgur.com/bBDqgFT.jpg)

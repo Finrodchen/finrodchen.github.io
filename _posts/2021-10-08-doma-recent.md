@@ -1,6 +1,6 @@
 ---
 title: 特管辦法近況
-tags: cell therapy
+tags: cell-therapy
 ---
 
 最新資訊請見[醫事司網頁](https://dep.mohw.gov.tw/doma/lp-4127-106.html)
