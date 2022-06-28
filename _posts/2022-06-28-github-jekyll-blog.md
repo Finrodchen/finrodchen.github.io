@@ -3,7 +3,6 @@ title: 利用GitHub Pages建立自己的部落格
 tags: markdown
 ---
 
-## GitHub Pages
 ![GitHub Pages](https://i.imgur.com/MqTFW1u.png)
 [GitHub Pages](https://pages.github.com/)是由GitHub提供的服務，讓用戶可以非常方便的將程式存放庫以Jekyll引擎轉換成介面簡潔又快速的網站，同時具備免費的網域和SSL，只要註冊[GitHub](https://github.com/)帳號就能免費使用，本文要介紹的是以最簡單的方式建立自己的blog，一起來看看吧！
 
