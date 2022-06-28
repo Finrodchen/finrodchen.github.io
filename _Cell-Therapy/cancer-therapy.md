@@ -1,4 +1,5 @@
 ---
+layout: item
 title: 淺談癌症治療
 tags: cancer-therapy
 ---

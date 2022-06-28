@@ -37,6 +37,10 @@ titles_from_headings:
 
 home_post_limit: 5
 
+collections: 
+  Cell-Therapy:
+    output: true
+
 defaults:
   - scope:
       path: ""

@@ -1,4 +1,5 @@
 ---
+layout: item
 title: 特管辦法近況
 tags: cell-therapy
 ---
