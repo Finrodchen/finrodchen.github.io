@@ -1,12 +1,19 @@
 title: "Just Note"
-author: "Finrodchen"
+
+author:
+  name: "Finrodchen"
+  email: "finrodchen@my.com"
+
 description: "Thoughts and Ideas." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+
 timezone: "Asia/Taipei"
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "finrodchen@my.com"
+
 twitter_username: "finrodchen"
+
 github_username: "Finrodchen"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
@@ -40,6 +47,8 @@ home_post_limit: 5
 collections: 
   Cell-Therapy:
     output: true
+
+show_excerpts: true
 
 defaults:
   - scope:
