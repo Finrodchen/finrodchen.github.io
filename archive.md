@@ -11,9 +11,5 @@ title: Archive
     {% endfor %}
   </ul>
 {% endfor %}
-<h3>Cell-Therapy</h3>
-<ul>
-  {%- for post in site.celltherapy %}
-  <li><a href="{{ post.url }}">{{ post.date | date: "%b %Y" }} - {{ post.title }}</a></li>
-  {%- endfor %}
+
 </ul>
