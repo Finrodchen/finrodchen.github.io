@@ -1,5 +1,4 @@
 ---
-layout: item
 title: 免疫細胞癌症治療
 date: 2021-10-08
 tags: cancer-therapy

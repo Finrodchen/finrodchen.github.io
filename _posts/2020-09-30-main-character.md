@@ -1,5 +1,4 @@
 ---
-layout: item
 title: 【特管辦法】細胞治療的關鍵角色
 date: 2020-09-30
 tags: cell-therapy

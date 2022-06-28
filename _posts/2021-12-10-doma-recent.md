@@ -1,5 +1,4 @@
 ---
-layout: item
 title: 特管辦法近況
 date: 2021-12-10
 tags: cell-therapy

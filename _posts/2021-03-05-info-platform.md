@@ -1,5 +1,4 @@
 ---
-layout: item
 title: 【特管辦法】如何使用「細胞治療技術資訊揭露平台」
 date: 2021-03-05
 tags: cell-therapy
