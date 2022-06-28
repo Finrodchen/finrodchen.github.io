@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Resume
 ---
 
 ## Finrod Chen (陳思蒝)
