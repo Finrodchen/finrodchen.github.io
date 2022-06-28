@@ -11,5 +11,3 @@ title: Archive
     {% endfor %}
   </ul>
 {% endfor %}
-
-</ul>
