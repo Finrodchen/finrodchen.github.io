@@ -1,6 +1,6 @@
 ---
 title: 2015/10/13新興生醫產品GMP研習會
-tags: bioindusry
+tags: bioindustry
 ---
 
 2015/10/13
