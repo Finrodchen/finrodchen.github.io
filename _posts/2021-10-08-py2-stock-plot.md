@@ -55,7 +55,7 @@ K線又稱作蠟燭線，一根蠟燭表示一天自開盤到收盤的價格表�
 
 首先引入需要的模組
 
-```python=
+```python
 import pandas as pd
 import matplotlib
 import mplfinance as mpf
@@ -63,14 +63,14 @@ import mplfinance as mpf
 
 設定我們要讀取的股票代號，再由pandas的`pd.read_csv()`功能讀取`.csv`檔案
 
-```python=
+```python
 target_stock = '0050'
 df = pd.read_csv(f'./data/{target_stock}.csv', parse_dates=True, index_col=1) 
 ```
 
 接著要對資料表中的Turnover表頭做一點修改，由於mplfinance模組中對於交易量的辨認是Volume這個字，所以我們使用pandas的`df.rename()`功能調整表頭。
 
-```python=
+```python
 df.rename(columns={'Turnover':'Volume'}, inplace = True) 
 ```
 
@@ -80,20 +80,20 @@ df.rename(columns={'Turnover':'Volume'}, inplace = True)
 
 由於mplfinance內建的漲/跌標記顏色是美國的版本(綠漲紅跌)，所以我們要先使用mplfinance中自訂圖表外觀功能`mpf.make_marketcolors()`將漲/跌顏色改為台灣版本(紅漲綠跌)，接著再將這個設定以`mpf.make_mpf_style()`功能保存為自訂的外觀。
 
-```python=
+```python
 mc = mpf.make_marketcolors(up='r', down='g', inherit=True)
 s  = mpf.make_mpf_style(base_mpf_style='yahoo', marketcolors=mc)
 ```
 
 其他圖表的細節設定(類型、均線、顯示交易量、圖表標題、套用外觀等...)我們則建立一個可變參數將它們都放在裡面，這個做法當你有多張圖表要共用設定參數時會非常方便喔。
 
-```python=
+```python
 kwargs = dict(type='candle', mav=(5,20,60), volume=True, figratio=(10,8), figscale=0.75, title=target_stock, style=s)
 ```
 
 最後只要很簡單的使用`mpf.plot()`就完成啦！
 
-```python=
+```python
 mpf.plot(df, **kwargs)
 ```
 
@@ -105,7 +105,7 @@ mpf.plot(df, **kwargs)
 
 ## 完整程式碼
 
-```python=
+```python
 import pandas as pd
 import matplotlib
 import mplfinance as mpf

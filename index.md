@@ -4,4 +4,4 @@
 
 ![](https://i.imgur.com/wEQsITK.png)
 
-Using [Markdown](/#) to notes.
+Using `Markdown` to notes.
