@@ -9,7 +9,7 @@ tags: markdown
 ## 建立專用Repository
 要在GitHub建立自己的blog，首先要有一個GitHub帳號，接著透過[這個連結](https://github.com/Finrodchen/simple-blog-bootstrap/generate)建立一個新的存放庫，庫的名稱要命名為「你的GitHub使用者名稱.github.io」，並將存放庫的隱私屬性設定為「公開」，這樣GitHub就會自動將存放庫裡面的文件編譯成網頁並發佈到網路上了。
 
-```markdown=
+```markdown
 存放庫命名原則：
 使用者名稱：finrodchen
 存放庫名稱：finrodchen.github.io
@@ -43,7 +43,7 @@ blog完成基本的個人化後，接下來就要發表你的第一篇文章了�
 
 了解規則後我們可以嘗試新增一個檔案，檔名為`2022-06-28-first-blog.md`，檔案內容如下：
 
-```markdown=
+```markdown
 ---
 title: My First Blog
 tags: blog
