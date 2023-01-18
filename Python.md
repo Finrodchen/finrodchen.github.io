@@ -1,4 +1,4 @@
-# Python學習筆記
+# Python
 
 [台股資料爬蟲─Python筆記(1)](https://just-note.xyz/Python/2021-10-08-py1-stock-scrapper.html)
 
