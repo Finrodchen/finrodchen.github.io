@@ -1,6 +1,7 @@
 ---
 title: 台股資料爬蟲─Python筆記(2)
 tags: python
+permalink: /Python/
 ---
 
 ![logo](https://i.imgur.com/y9uS8fm.png)
