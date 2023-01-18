@@ -1,7 +1,7 @@
 ---
 title: 台股資料爬蟲─Python筆記(2)
 tags: python
-permalink: /Python/
+permalink: /Python/py2-stock-plot
 ---
 
 ![logo](https://i.imgur.com/y9uS8fm.png)

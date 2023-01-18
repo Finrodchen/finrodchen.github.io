@@ -1,7 +1,7 @@
 ---
 title: 台股資料爬蟲─Python筆記(1)
 tags: python
-permalink: /Python/
+permalink: /Python/py1-stock-scrapper
 ---
 
 ![logo](https://i.imgur.com/buOtYgR.png)
