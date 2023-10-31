@@ -1,10 +1,10 @@
 ---
-title: 間質幹細胞治療退化性關節炎Q&A
+title: 間質幹細胞治療退化性關節炎QA
 tags: ADSC, MSC, cell-threapy
 permalink: /ADSC-OA-therapy
 ---
 
-# 間質幹細胞治療退化性關節炎Q&A
+# 間質幹細胞治療退化性關節炎QA
 
 ### 目前最常用在膝蓋、脊髓損傷的幹細胞是「間質幹細胞」，在膝蓋、脊髓損傷上，可以達到何種治療效果？
 
