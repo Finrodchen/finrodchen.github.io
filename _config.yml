@@ -10,6 +10,8 @@ timezone: "Asia/Taipei"
 # All of these are optional and can be removed or commented out
 email: "me@finrod.xyz"
 
+url: "https://blog.finrod.xyz"
+
 twitter_username: "finrodchen"
 
 github_username: "Finrodchen"
@@ -27,6 +29,8 @@ github_username: "Finrodchen"
 theme: "minima"
 
 rss: rss
+
+gravatar_hash: 3c36db30a14b51855ea190787d07f25f
 
 kramdown:
   syntax_highlighter_opts:
