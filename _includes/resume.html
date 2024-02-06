@@ -13,10 +13,10 @@
 
       // Yeah, I know this is hacky, deal with it, I just threw it in real quick because I was tired of seeing "1 yrs 1 mos"
       var returnText = "";
-      if (years == 1) { returnText += `${years} yr ` }
-      if (years > 1) { returnText += `${years} yrs ` }
-      if (months == 1) { returnText += `${months} mo ` }
-      if (months > 1) { returnText += `${months} mos ` }
+      if (years == 1) { returnText += `${years} 年 ` }
+      if (years > 1) { returnText += `${years} 年 ` }
+      if (months == 1) { returnText += `${months} 個月 ` }
+      if (months > 1) { returnText += `${months} 個月 ` }
       returnText = returnText.trim();
 
       document.write(returnText);
