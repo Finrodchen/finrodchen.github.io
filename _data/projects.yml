@@ -1,17 +1,26 @@
-- project: chadbaldwin.net
-  role: Writer
-  duration: Dec, 2020 &mdash; Present
-  url: "https://chadbaldwin.net"
+- project: 鼎新 iGP Workflow進銷存系統導入
+  role: 專案經理
+  duration: 2020年06月 &mdash; 2021年01月
   description: >
-    I've always enjoyed teaching, and I love learning new technologies and sharing tips and tricks
-    I've picked up over the years. So back in Dec 2020 I decided to build my own blog.
+    目前全系統穩定運作中
+    1. 同時導入iGP Workflow進銷存系統、EasyFlow電子簽核系統及Shop Flow Tracking生產管制系統
+    2. 導入時間共4個月，於2020年11月準時上線
+    3. 上線後回顧KPI皆達到預期目標，順利結案
 
-- project: Schema Search, utility stored procedure
-  role: Developer
-  duration: 2015 &mdash; Present
-  url: "https://github.com/chadbaldwin/SQL"
+- project: 特管辦法細胞治療計畫申請
+  role: 專案經理、計畫書撰寫
+  duration: 2018年02月 &mdash; 至今
   description: >
-    "Schema Search" as I've been calling it, is a stored procedure that focuses on searching the
-    contents of system objects in order to help my understanding of the SQL Server system tables.
-    Eventually, it turned into a tool that I use, at minimum, on a daily basis. The project is
-    hosted on GitHub and is licensed for anyone to use or contribute!
+    目前已通過14個計畫案申請(2024年01月)
+    1. 撰寫計畫書及產品製造文件，彙整後送審
+    2. 公部門/醫療機構聯繫窗口，溝通協調計畫書內容，因應審查意見修正計畫內容
+    3. 控制計畫書版本，建立知識管理系統
+
+- project: 特管辦法細胞治療計畫執行
+  role: 專案經理、品質計畫負責人代理人
+  duration: 2019年02月 &mdash; 至今
+  description: >
+    目前8個案件營運中，服務超過170位病患，放行細胞產品超過600劑次(2024年01月)
+    1. 審核產品報告，確認記錄完整正確，相關技術性標準作業程序之制定及審查、協助內部PD/CA流程執行
+    2. 醫療機構聯繫窗口，安排治療排程，控管計畫成本及治療成效與不良事件追蹤
+    3. 收集病患治療資料，彙整年度報告，統計產品品質數據及醫療數據

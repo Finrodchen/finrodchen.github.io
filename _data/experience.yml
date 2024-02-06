@@ -1,53 +1,48 @@
 
-- company: "Homecare Homebase"
-  summary: "Industry leader software solution for home-based care, streamlining everything from scheduling, mapping and routing to billing, compliance and revenue cycle management"
-  logo: "/img/companylogos/hchb.png"
-  url: "https://www.hchb.com/"
+- company: "喜躍生醫"
+  summary: 
+  logo: "/img/companylogos/xiyue.png"
+  url: "https://www.xiyuebiomed.com/"
   positions:
-  - title: "Data Engineer III"
+  - title: "資訊管理人"
+    startdate: 2020-01-01
+    summary: "行政管理處資訊管理人，負責公司內部資訊資安議題，管理進銷存生管系統及內部網路系統與企業內部服務"
+    projects: 
+  - title: "研發主任"
     startdate: 2022-05-23
-    summary:
-    projects:
+    summary: "研究發展部主任，負責協調各研發專案資源分配，專案報告審查；另負責於「特定醫療儀器及醫療技術技術管理辦法」規範之細胞治療計畫案件完整流程"
+    projects: 
 
-- company: "AutoAlert"
-  summary: "A data mining company dedicated to identifying leads in automotive dealerships customer data with the goal of helping them increase customer retention and sales."
-  logo: "/img/companylogos/aa.jpg"
-  url: "https://www.autoalert.com/"
+- company: "光麗生醫"
+  summary: "成立於2009年，為細胞治療產業元祖級公司，也是第一間儲存「成人幹細胞」的公司，於2023年初因IPO需求更名為喜躍生醫"
+  logo: "/img/companylogos/guangli.png"
+  url: "https://www.guangli.com.tw/"
   positions:
-  - title: "Database Developer"
-    startdate: 2015-10-01
-    enddate: 2022-05-13
-    summary: "Primarily working with SQL, C# and PowerShell; improved products by working with development and product teams to engineer back-end services, build databases and design schemas. Implemented ETL processes for importing, cleansing and normalizing automotive dealership data to be processed by our proprietary calculation engine."
+  - title: "生產主任"
+    startdate: 2018-02-01
+    enddate: 2022-01-31
+    summary: "生產製造部主任，負責協調生產排程，簽署細胞產品製程報告；另負責或參與於「特定醫療儀器及醫療技術技術管理辦法」規範之細胞治療計畫案件完整流程"
     projects:
-      - "Collaborated with 3rd party data providers to build integrations for tasks such as SalesForce data syncing, email/address sanitization, data appends and ETL processes"
-      - "Helped maintain and improve an elaborate calculation engine written in SQL to support new features and settings"
-      - "Tuned existing SQL code to run faster and more efficiently reducing both runtime and resource usage through query and index tuning by analyzing execution plans, server statistics, dynamic management views (DMV's), SQL Server First Responder Kit and SentryOne Plan Explorer"
-      - "Worked on many ETL projects using SQL, C#, PowerShell and batch scripting, and SSIS packages"
-      - "Contributed to complex back-end services written in C# utilizing technologies such as Elasticsearch, RabbitMQ, Redis, Amazon SNS, Amazon SES, Amazon S3, Docker, Selenium web scraping, and handling files via FTP"
-      - "Experience with using collaboration and CI/CD tools including Jenkins, Slack, Upsource, Jira and Confluence"
-      - "Worked primarily with SQL Server versions 2008, 2012, 2014 practicing good HA/DR policies, using replication and Always On availability groups"
-      - "Used AWS tools for troubleshooting, logging and deployment such as CloudWatch, CodeDeploy, and managing/monitoring servers through EC2"
-  - title: "Senior IT Support Analyst"
-    startdate: 2012-06-04
-    enddate: 2015-10-01
-    summary: "As an IT Support Analyst I was responsible for quickly triaging and troubleshooting issues in client data. Worked directly with clients over the phone to assist fixing data delivery issues. Built systems and tools to automate detection of bad data quality and reduce the work needed to fix."
+      - "參與免疫殺手細胞製程開發"
+      - "主導膝關節脂肪取得並建立脂肪間質幹細胞庫技術開發之人體研究"
+      - "主導抽脂後廢棄脂肪建立脂肪間質幹細胞庫技術開發之人體研究"
+      - "特定醫療儀器及醫療技術技術管理辦法：免疫殺手細胞治療第四期實體癌專案管理"
+      - "特定醫療儀器及醫療技術技術管理辦法：脂肪間質幹細胞治療退化性關節炎專案管理"
+  - title: "副研究員"
+    startdate: 2014-02-01
+    enddate: 2018-01-31
+    summary: "研究發展部研究員，負責收集彙整尖端技術資訊及臨床研究成果、填寫與檢核細胞產品製程報告、執行每日檢查並參與內部能力試驗"
     projects:
-      - "Worked heavily with SSRS to write custom reports for all business needs ranging from simple tablix reports to intricate reports with benchmarks, charts, and complex expressions"
-      - "Established a reporting data warehouse to ensure consistent metrics across all reports"
+      - "參與脂肪間質幹細胞治療漸凍症臨床研究申請"
+      - "參與脂肪間質幹細胞治療漸凍症恩慈治療申請"
+  - title: "製程工程師"
+    startdate: 2012-02-01
+    enddate: 2014-01-31
+    summary: "生產製造部製程工程師，主要負責脂肪間質幹細胞及臍帶間質幹細胞組織分離與幹細胞培養"
+    projects:
+      - "參與脂肪間質幹細胞治療二型糖尿病臨床研究申請"
+      - "參與製程ISO文件系統建置專案"
 
-- company: "Albert A. Webb Associates"
-  summary:
-  logo: "/img/companylogos/aawa.png"
-  url: "https://www.webbassociates.com/"
-  positions: 
-  - title: "IT Intern / Network Technician"
-    startdate: 2008-10-13
-    enddate: 2012-06-01
-    summary: "Supported a large multi-location network which hosted on-prem services for hundreds of civil engineers. Assisted in the installation and configuration of SAN, virtualization, network and power equipment."
-    projects:
-      - "Eliminated the need for hiring Cisco consultants by learning to support the Cisco devices through personal research, and formal courses offered at the local college"
-      - "In charge of installing, configuring and managing network monitoring software for hundreds of network devices using Nagios"
-      - "Established a reliable system for imaging and deploying desktops for new users"
 
 #- company: American Money Group, Inc
 #  summary:

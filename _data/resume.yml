@@ -1,19 +1,17 @@
 theme: default
 header:
-  name: Chad Baldwin
-  suffix: MCSA
+  name: 陳思蒝
+  suffix: Finrod Chen
   display_contact_info: true
-  current_title: Senior Database Developer
+  current_title: 研究發展部主任
   intro: >
-    Motivated and versatile software and database developer, MCSA certified in Database
-    Development. Proficient in schema design, data normalization techniques and query/index tuning.
-    Always looking for new challenges and new technologies to learn. Experienced with the software
-    development life cycle (SDLC) utilizing various project management methodologies including
-    Agile, Scrum and Kanban. Efficient working both independently and in a team environment.
+    自大同大學生物工程研究所畢業後踏入職場，加入喜躍生醫股份有限公司至
+    今。由製程工程師升級為生產部技術主管，並參與過多次臨床試驗查核、特管
+    辦法計畫申請及恩慈療法執行，熟悉細胞治療相關法規及實際執行經驗。
 contact:
-  address: 123 Main St, Test, CA 91234
-  phone: (123) 456-7890
-  email: resume@chadbaldwin.net
+  address: 新北市永和區
+  #phone: (123) 456-7890
+  email: me@finrod.xyz
 sections:
   experience:   true
   education:    true
@@ -25,11 +23,11 @@ sections:
   links:        true
   social_links: false
 social:
-  Website:    http://chadbaldwin.net
-  GitHub:     https://github.com/chadbaldwin
-  Twitter:    https://twitter.com/chad_baldwin
+  Website:    http://blog.finrod.xyz
+  GitHub:     https://github.com/finrodchen
+  #Twitter:   https://twitter.com/chad_baldwin
   #Dribbble:  https://dribbble.com/chadbaldwin
   #FaceBook:  https://facebook.com/iamchadbaldwin
-  LinkedIn:   https://linkedin.com/in/chadbaldwin
+  LinkedIn:   https://linkedin.com/in/finrodchen
   #Instagram: https://instagram.com/chad_baldwin
   #Medium:    https://medium.com/@chad-baldwin

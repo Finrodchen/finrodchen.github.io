@@ -87,14 +87,14 @@
   <!-- Contact me button -->
   {%- if resume.contact.email -%}
     <div>
-      <a href="mailto:{{ resume.contact.email }}" class="contact-button no-print" itemprop="email">Contact me</a>
+      <a href="mailto:{{ resume.contact.email }}" class="contact-button no-print" itemprop="email">聯繫我</a>
     </div>
   {%- endif -%}
 </header>
 
 {%- if resume.sections.skills -%}
   <section class="content-section">
-    <header class="section-header"><h2>Skills</h2></header>
+    <header class="section-header"><h2>技能</h2></header>
     <div class="section-content">
     {%- for skill in site.data.skills -%}
       <div class="resume-item">
@@ -122,7 +122,7 @@
 
 {%- if resume.sections.experience -%}
   <section class="content-section">
-    <header class="section-header"><h2>Experience</h2></header>
+    <header class="section-header"><h2>經歷</h2></header>
     <div class="section-content">
     {%- for job in site.data.experience -%}
       {%- assign positions = job.positions | sort_natural: "startdate" | reverse -%}
@@ -192,7 +192,7 @@
 
 {%- if resume.sections.recognition -%}
   <section class="content-section">
-    <header class="section-header"><h2>Recognition</h2></header>
+    <header class="section-header"><h2>認證</h2></header>
     <div class="section-content">
     {%- for recognition in site.data.recognitions -%}
       <div class="resume-item">
@@ -207,7 +207,7 @@
 
 {%- if resume.sections.education -%}
   <section class="content-section">
-    <header class="section-header"><h2>Education</h2></header>
+    <header class="section-header"><h2>學歷</h2></header>
     <div class="section-content">
     {%- for education in site.data.education -%}
       <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
@@ -230,7 +230,7 @@
 
 {%- if resume.sections.projects -%}
   <section class="content-section">
-    <header class="section-header"><h2>Personal Projects</h2></header>
+    <header class="section-header"><h2>專案</h2></header>
     <div class="section-content">
     {%- for project in site.data.projects -%}
       <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -272,7 +272,7 @@
 
 {%- if resume.sections.links -%}
   <section class="content-section">
-    <header class="section-header"><h2>Additional Links</h2></header>
+    <header class="section-header"><h2>興趣</h2></header>
     <div class="section-content">
       <div class="resume-item">
         <ul class="resume-item-list">
@@ -285,7 +285,7 @@
 
 {%- if resume.sections.social_links -%}
   <section class="content-section">
-    <header class="section-header"><h2>Social Links</h2></header>
+    <header class="section-header"><h2>社群</h2></header>
     <div class="section-content">
       <div class="resume-item">
         {%- if resume.social -%}
@@ -301,8 +301,8 @@
 <div class="bottom-bar no-print">
   <div class="bottom-bar__content">
     <div class="bottom-bar__text">
-      <a href="/assets/Chad Baldwin, MCSA - Senior Database Developer - Resume.pdf" >
-        PDF version available here
+      <a href="/assets/Finrodchen-Resume.pdf" >
+        PDF版本
       </a>
     </div>
     <button class="bottom-bar__close" type="button">&times;</button>

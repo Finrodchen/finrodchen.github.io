@@ -1,23 +1,15 @@
 - name: LinkedIn
-  url: https://linkedin.com/in/chadbaldwin
-  label: chadbaldwin
-
-- name: Credly/Acclaim
-  url: https://credly.com/users/chadbaldwin
-  label: chadbaldwin
+  url: https://linkedin.com/in/finrodchen
+  label: finrodchen
 
 - name: GitHub
-  url: https://github.com/chadbaldwin
-  label: chadbaldwin
-
-- name: StackOverflow
-  url: https://stackoverflow.com/users/3474677
-  label: chad-baldwin
+  url: https://github.com/finrodchen
+  label: finrodchen
 
 - name: PluralSight
   url: https://app.pluralsight.com/profile/chadbaldwin
   label: chadbaldwin
 
 - name: Microsoft Learn
-  url: https://learn.microsoft.com/en-us/users/chadbaldwin/transcript/v0ylxf6nq5l8ny8
-  label: chadbaldwin
+  url: https://learn.microsoft.com/zh-tw/users/finrodchen-7401/transcript/d5e8nbrp1zkr81q
+  label: finrodchen

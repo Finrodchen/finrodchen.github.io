@@ -1,9 +1,11 @@
-- degree: Cisco Networking certification program
-  uni: Riverside Community College
-  year: 2009 &mdash; 2013
+- degree: 生物工程研究所
+  uni: 大同大學
+  year: 2009年09月 &mdash; 2011年06月
+  awards:
+    award: 2012年產學合作計畫：小金櫻不同部位萃取物之美白功效
+    award: 2013年產學合作計畫：小金櫻抗過敏活性之研究
   summary: >
-    Focused on computer science and Cisco networking. Completed the 4 course
-    Cisco Networking certification program, and received a certificate of completion.
+    主要研究方向為中草藥萃取物化學活性及細胞活性分析，並期望能找出特定的活性成分，進一步純化作為保養品或保健食品之原料
 
 #- degree: High School Diploma
 #  uni: Fountain Valley High School

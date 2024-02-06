@@ -8,38 +8,34 @@
 # Template supports both a description AND a skill list, however it may look best if only one or the
 # other is used. Lists are sorted and concatenated without line breaks separated by • (&bull;)
 
-- skill: Database Design, Development and Reporting
-  description: "10+ years of experience in database/schema design, query tuning, index tuning, SQL development, troubleshooting locking and blocking issues, data analysis, custom reporting and data visualization."
-- skill: .NET Development Using C# and PowerShell
-  description: "7+ years experience with PowerShell and 2+ years of experience working with C# and .NET to build back end services integrating with 3rd party API's, web scraping, ETL processes and task automation."
-- skill: Tools & Technologies
+- skill: 基礎生化實驗
+  description: "5年以上經驗於中草藥研究領域，包含活性成份分離純化、成份定性定量、化合物結構分析以及生化活性分析(in vitro/ in vivo)"
+- skill: 細胞生化實驗
+  description: "10年以上經驗於人類細胞組織領域，專注於成體幹細胞製程開發最佳化，應用於疾病治療新要開發"
+- skill: 專案計畫管理
+  description: "專案提案、執行及管理，統籌規劃專案資源及內部控制流程"
+- skill: 工具及技術  
   list:
-    - Azure DevOps
-    - AWS Services (incl. Console, CloudWatch, EC2, S3, SES, SNS, Secrets Manager)
-    - Azure Data Studio (ADS)
-    - Confluence
-    - Chrome DevTools
-    - DBATools
+    - Digiwin iGP Workflow
+    - AWS Services
     - Docker
-    - Elasticsearch
-    - Excel
     - Fiddler
     - Git
-    - Jira
+    - Google Workspace
+    - Microsoft Office
+    - PaloAlto Firewall
     - Postman
     - PowerShell
-    - RabbitMQ
-    - Red Gate Toolbelt
-    - Sisense BI Reporting
-    - Splunk
-    - SQL Server Data Tools (SSDT)
-    - SQL Server Management Studio (SSMS)
-    - SQL Server Profiler
-    - SQL Server Reporting Services (SSRS)
+    - SQL Server
     - SVN
-    - Upsource
-    - Visual Studio
     - VS Code
+    - Web Frontend/Backend
+- skill: 語言
+  list:
+    - 中文 - Native
+    - 台語 - Native
+    - 英文 - Advanced
+    - 日文 - Beginner
 
 # HCHB to add:
 # Azure, Bicep, Azure DevOps, Pipelines (YAML), DacFx
