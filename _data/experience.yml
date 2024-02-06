@@ -2,11 +2,11 @@
 - company: "喜躍生醫"
   summary: 
   logo: "/img/companylogos/xiyue.png"
-  url: "https://www.xiyuebiomed.com/"
+  url: "https://xiyuebiomed.com/"
   positions:
   - title: "資訊管理人"
     startdate: 2020-01-01
-    summary: "行政管理處資訊管理人，負責公司內部資訊資安議題，管理進銷存生管系統及內部網路系統與企業內部服務"
+    summary: "行政管理處資訊管理人，負責公司內部資訊資安議題，管理進銷存系統、內部網路系統及企業內部服務"
     projects: 
   - title: "研發主任"
     startdate: 2022-05-23
@@ -16,7 +16,7 @@
 - company: "光麗生醫"
   summary: "成立於2009年，為細胞治療產業元祖級公司，也是第一間儲存「成人幹細胞」的公司，於2023年初因IPO需求更名為喜躍生醫"
   logo: "/img/companylogos/guangli.png"
-  url: "https://www.guangli.com.tw/"
+  url: "https://guangli.com.tw/"
   positions:
   - title: "生產主任"
     startdate: 2018-02-01
